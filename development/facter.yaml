@@ -1,0 +1,4 @@
+# for secrets keep using hieradata
+---
+oas_titan_api_crud_facts:
+  docker_tag: 12f38c0
